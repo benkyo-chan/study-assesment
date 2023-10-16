@@ -1,2 +1,2 @@
-# study-assesment
+# study-assessment
 あなたのいいところ診断
